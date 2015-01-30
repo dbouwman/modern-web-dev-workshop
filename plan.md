@@ -120,7 +120,12 @@ keep working with open-data-starter
 - add gulp-gh-pages
 - add status.json task (so app knows it version)
 - run!
-- beer.
+
+## The Future
+- ES6
+- JSPM & System JS
+- HTTP2 & SPDY
+
 
 
 
